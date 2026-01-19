@@ -1,6 +1,5 @@
 import { MapContainer, TileLayer, Marker, useMapEvents } from "react-leaflet";
 import { useState } from "react";
-import { Point } from "../../models/point.model";
 import L from "leaflet";
 import React from "react";
 
